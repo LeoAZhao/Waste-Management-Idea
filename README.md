@@ -1,0 +1,1 @@
+Simple waste management concept! Isn't fully fleshed out, but is a proof of concept! Of course, it also doesn't have a real coupon in the system, but if it actually existed, it would partner with actual companies!
